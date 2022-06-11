@@ -16,10 +16,9 @@ public class Bullet : MonoBehaviour {
 		rb.velocity = new Vector2 (moveDirection.x, moveDirection.y);
 		Destroy (gameObject, 3f);
 	}
-
 	void OnTriggerEnter2D (Collider2D col)
 	{
-		if (col.gameObject.name.Equals ("Player")) {
+		if (col.gameObject.tag.Equals ("Player")) {
 			Debug.Log ("Hit!");
 			Destroy (gameObject);
 		}
