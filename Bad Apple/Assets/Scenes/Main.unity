@@ -329,7 +329,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   UnitsToMove: 2
   EnemySpeed: 350
-  _isFacingRight: 1
+  _isFacingRight: 0
   _moveRight: 1
 --- !u!50 &883852870
 Rigidbody2D:
@@ -362,7 +362,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: -0.42803115}
@@ -438,7 +438,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 883852868}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.83, y: 1.65, z: 0}
+  m_LocalPosition: {x: -0.92, y: 3.05, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
