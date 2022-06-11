@@ -3,11 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Bullet : MonoBehaviour {
-
-	float moveSpeed = 7f;
-
+	public float moveSpeed = 7f;
 	Rigidbody2D rb;
-
 	GameObject target;
 	Vector2 moveDirection;
 
@@ -22,7 +19,7 @@ public class Bullet : MonoBehaviour {
 
 	void OnTriggerEnter2D (Collider2D col)
 	{
-		if (col.gameObject.tag.Equals ("Player")) {
+		if (col.gameObject.name.Equals ("Player")) {
 			Debug.Log ("Hit!");
 			Destroy (gameObject);
 		}
