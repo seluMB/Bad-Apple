@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - TutorialRequirement
+  - Collectible
+  - Peach
+  - Lemon
+  - Strawberry
+  - Pear
   layers:
   - Default
   - TransparentFX
