@@ -30,7 +30,7 @@ public class PlayerMovemento : MonoBehaviour
     }
 
     // Apply Input 
-    private void FixedUpdate()
+    void FixedUpdate()
     {
         controller.Move(horizontalMove * Time.fixedDeltaTime, jump);
         jump = false;
