@@ -18,10 +18,17 @@ public class Bullet : MonoBehaviour {
 	}
 	void OnTriggerEnter2D (Collider2D col)
 	{
-		if (col.gameObject.tag.Equals ("Player")) {
+		if (col.gameObject.tag.Equals("Player")) {
 			Debug.Log ("Hit!");
 			Destroy (gameObject);
+
 		}
+		if (col.gameObject.tag.Equals("Environment"))
+        {
+			Debug.Log("Environment");
+			Destroy(gameObject);
+
+        }
 	}
 
 }
