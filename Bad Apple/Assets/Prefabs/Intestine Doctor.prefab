@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &2920285213097597397
+--- !u!1 &8424709030912091100
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,11 +8,11 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 2920285213097597400}
-  - component: {fileID: 2920285213097597401}
-  - component: {fileID: 2920285213097597398}
-  - component: {fileID: 2920285213097597399}
-  - component: {fileID: 2920285213097597396}
+  - component: {fileID: 8424709030912091089}
+  - component: {fileID: 8424709030912091088}
+  - component: {fileID: 8424709030912091103}
+  - component: {fileID: 8424709030912091102}
+  - component: {fileID: 8424709030912091101}
   m_Layer: 8
   m_Name: Intestine Doctor
   m_TagString: Untagged
@@ -20,13 +20,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &2920285213097597400
+--- !u!4 &8424709030912091089
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2920285213097597397}
+  m_GameObject: {fileID: 8424709030912091100}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 34.25, y: 1.38, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -35,13 +35,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &2920285213097597401
+--- !u!212 &8424709030912091088
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2920285213097597397}
+  m_GameObject: {fileID: 8424709030912091100}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -87,13 +87,13 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &2920285213097597398
+--- !u!61 &8424709030912091103
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2920285213097597397}
+  m_GameObject: {fileID: 8424709030912091100}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -113,28 +113,28 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.48, y: 2.66}
   m_EdgeRadius: 0
---- !u!114 &2920285213097597399
+--- !u!114 &8424709030912091102
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2920285213097597397}
+  m_GameObject: {fileID: 8424709030912091100}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 62b7eaa46bf214447acc6847fa5ba9b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 2920285213097597396}
+  animator: {fileID: 8424709030912091101}
   maxHealth: 3
---- !u!95 &2920285213097597396
+--- !u!95 &8424709030912091101
 Animator:
   serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2920285213097597397}
+  m_GameObject: {fileID: 8424709030912091100}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 65ea33091062ef94db4d6920ea8fc46e, type: 2}
