@@ -3,6 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    public GameObject loseMenu;
     bool gameHasEnded = false;
     public void EndGame()
     {
@@ -10,13 +11,15 @@ public class GameManager : MonoBehaviour
         {
             gameHasEnded = true;
             Debug.Log("Game Over");
-            Restart();
+            loseMenu.SetActive(true);
+            Time.timeScale = 0;
         }
         
     }
 
-    void Restart ()
+    public void Restart ()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
