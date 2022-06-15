@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerMovemento : MonoBehaviour
 {
@@ -9,7 +10,13 @@ public class PlayerMovemento : MonoBehaviour
     float horizontalMove = 0f;
     public float runSpeed = 40f;
     bool jump = false;
+
+    //health stuff
     public float playerHealth = 3f;
+    public int numOfHearts;
+    public Image[] hearts;
+    public Sprite fullHeart;
+    public Sprite emptyHeart;
 
     // Get Input
     void Update()
@@ -22,6 +29,55 @@ public class PlayerMovemento : MonoBehaviour
         {
             jump = true;
             animator.SetBool("IsJumping", true);
+        }
+
+        if (playerHealth > numOfHearts)
+        {
+            playerHealth = numOfHearts;
+        }
+
+        for (int i = 0; i < hearts.Length; i++)
+        {
+            if(i < playerHealth)
+            {
+                hearts[i].sprite = fullHeart;
+            }
+            else
+            {
+                hearts[i].sprite = emptyHeart;
+            }
+
+            if(i < numOfHearts)
+            {
+                hearts[i].enabled = true;
+            }
+            else
+            {
+                hearts[i].enabled = false;
+            }
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Heart"))
+        {
+            for (int i = 0; i < hearts.Length; i++)
+            {
+                if (i < playerHealth)
+                {
+                    hearts[i].sprite = fullHeart;
+                }
+                else
+                {
+                    hearts[i].sprite = emptyHeart;
+                    
+                    Destroy(collision.gameObject);
+                    playerHealth++;
+                    numOfHearts++;
+
+                }
+            }
         }
     }
 
@@ -41,8 +97,9 @@ public class PlayerMovemento : MonoBehaviour
             if (playerHealth <= 0)
             {
                 FindObjectOfType<GameManager>().EndGame();
-            }
+            }       
         }
+
         if (col.gameObject.tag == "Enemy")
         {
             Debug.Log("Touch");
@@ -54,7 +111,6 @@ public class PlayerMovemento : MonoBehaviour
                 FindObjectOfType<GameManager>().EndGame();
             }
         }
-
     }
 
     // Apply Input 

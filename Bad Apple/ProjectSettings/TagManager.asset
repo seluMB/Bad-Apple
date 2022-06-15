@@ -12,6 +12,8 @@ TagManager:
   - Pear
   - Bullet
   - Enemy
+  - Environment
+  - Heart
   layers:
   - Default
   - TransparentFX

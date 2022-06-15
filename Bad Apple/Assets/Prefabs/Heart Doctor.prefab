@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 6480590321435070982}
   - component: {fileID: 6480590321435070983}
   - component: {fileID: 6480590321435070980}
+  - component: {fileID: 5955993492279958362}
+  - component: {fileID: 7277710778583238357}
   - component: {fileID: 6480590321435070987}
   m_Layer: 8
   m_Name: Heart Doctor
@@ -127,6 +129,35 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 6480590321435070987}
   maxHealth: 3
+--- !u!114 &5955993492279958362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6480590321435070977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6fdbfd45598fae43a16cf76a45516a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UnitsToMove: 5
+  EnemySpeed: 500
+  _isFacingRight: 0
+  _moveRight: 1
+--- !u!114 &7277710778583238357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6480590321435070977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e26f84096fcaa2f49aa97d37dc9d223e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 0}
 --- !u!95 &6480590321435070987
 Animator:
   serializedVersion: 4
