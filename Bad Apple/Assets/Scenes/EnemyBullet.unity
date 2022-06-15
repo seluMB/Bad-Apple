@@ -197,7 +197,7 @@ PrefabInstance:
     - target: {fileID: 1354003503458361934, guid: 2038ae10cfbc1ae468ac796bdf7a2037,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.7655015
+      value: -3.15
       objectReference: {fileID: 0}
     - target: {fileID: 1354003503458361934, guid: 2038ae10cfbc1ae468ac796bdf7a2037,
         type: 3}
@@ -353,6 +353,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brain Doctor Lilith
       objectReference: {fileID: 0}
+    - target: {fileID: 6677397518196206305, guid: 9ab0b72a7871de142ab11fb825880d9f,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 6677397518196206308, guid: 9ab0b72a7871de142ab11fb825880d9f,
         type: 3}
       propertyPath: m_Simulated
@@ -371,7 +376,7 @@ PrefabInstance:
     - target: {fileID: 6677397518196206311, guid: 9ab0b72a7871de142ab11fb825880d9f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 12.26
+      value: -0.45
       objectReference: {fileID: 0}
     - target: {fileID: 6677397518196206311, guid: 9ab0b72a7871de142ab11fb825880d9f,
         type: 3}

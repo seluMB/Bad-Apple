@@ -36,8 +36,19 @@ public class PlayerMovemento : MonoBehaviour
         {
             Debug.Log("Hit!");
             Destroy(col.gameObject);
-            playerHealth = playerHealth - 1f;
+           // playerHealth = playerHealth - 1f;
             
+            if (playerHealth <= 0)
+            {
+                FindObjectOfType<GameManager>().EndGame();
+            }
+        }
+        if (col.gameObject.tag == "Enemy")
+        {
+            Debug.Log("Touch");
+           
+            playerHealth = playerHealth - 1f;
+
             if (playerHealth <= 0)
             {
                 FindObjectOfType<GameManager>().EndGame();

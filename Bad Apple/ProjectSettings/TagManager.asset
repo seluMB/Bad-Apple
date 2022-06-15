@@ -11,6 +11,7 @@ TagManager:
   - Strawberry
   - Pear
   - Bullet
+  - Enemy
   layers:
   - Default
   - TransparentFX
