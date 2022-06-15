@@ -9,6 +9,7 @@ public class PlayerMovemento : MonoBehaviour
     float horizontalMove = 0f;
     public float runSpeed = 40f;
     bool jump = false;
+    public float playerHealth = 3f;
 
     // Get Input
     void Update()
@@ -27,6 +28,22 @@ public class PlayerMovemento : MonoBehaviour
     public void OnLanding ()
     {
         animator.SetBool("IsJumping", false);
+    }
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.tag == "Bullet")
+        {
+            Debug.Log("Hit!");
+            Destroy(col.gameObject);
+            playerHealth = playerHealth - 1f;
+            
+            if (playerHealth <= 0)
+            {
+                FindObjectOfType<GameManager>().EndGame();
+            }
+        }
+
     }
 
     // Apply Input 
