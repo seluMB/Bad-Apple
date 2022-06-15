@@ -89,4 +89,15 @@ public class Player : MonoBehaviour
     {
         return Physics2D.OverlapCircle(groundCheck.position, .1f, groundLayer);
     }
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.tag == "Bullet")
+        {
+            Debug.Log("Hit!");
+            Destroy(col.gameObject);
+
+        }
+        
+    }
 }
