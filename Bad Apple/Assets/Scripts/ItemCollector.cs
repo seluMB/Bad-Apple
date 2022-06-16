@@ -41,6 +41,8 @@ public class ItemCollector : MonoBehaviour
             Destroy(collision.gameObject);
             strawberry.enabled = true;
             isImgOn = true;
+            //TriggersWinning
+            FindObjectOfType<GameManager>().Win();
         }
 
         if (collision.gameObject.CompareTag("Pear"))

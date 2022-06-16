@@ -11,6 +11,9 @@ public class PlayerMovemento : MonoBehaviour
     public float runSpeed = 40f;
     bool jump = false;
 
+    // Pause check
+    public static bool GameIsPaused = false;
+
     //health stuff
     public float playerHealth = 4f;
     public int numOfHearts;
@@ -36,8 +39,14 @@ public class PlayerMovemento : MonoBehaviour
             playerHealth = numOfHearts;
         }
 
-        //Heart UI
-        for (int i = 0; i < hearts.Length; i++)
+        //Pause Menu
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            FindObjectOfType<GameManager>().Pause();
+        }
+
+            //Heart UI
+            for (int i = 0; i < hearts.Length; i++)
         {
             if(i < playerHealth)
             {
@@ -87,6 +96,8 @@ public class PlayerMovemento : MonoBehaviour
         animator.SetBool("IsJumping", false);
     }
 
+
+    //Health Manager & Restart Bullet
     void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.tag == "Bullet")
@@ -101,6 +112,7 @@ public class PlayerMovemento : MonoBehaviour
             }       
         }
 
+        // HealthManager & Restart Touch
         if (col.gameObject.tag == "Enemy")
         {
             Debug.Log("Touch");
