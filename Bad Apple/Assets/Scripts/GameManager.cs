@@ -38,6 +38,7 @@ public class GameManager : MonoBehaviour
     {
         Time.timeScale = 1;
         loseMenu.SetActive(false);
+        winScreen.SetActive(false);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
