@@ -12,7 +12,7 @@ public class PlayerMovemento : MonoBehaviour
     bool jump = false;
 
     //health stuff
-    public float playerHealth = 3f;
+    public float playerHealth = 4f;
     public int numOfHearts;
     public Image[] hearts;
     public Sprite fullHeart;
@@ -36,6 +36,7 @@ public class PlayerMovemento : MonoBehaviour
             playerHealth = numOfHearts;
         }
 
+        //Heart UI
         for (int i = 0; i < hearts.Length; i++)
         {
             if(i < playerHealth)
@@ -58,6 +59,7 @@ public class PlayerMovemento : MonoBehaviour
         }
     }
 
+    //Health Colelctible
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Heart"))
@@ -75,7 +77,6 @@ public class PlayerMovemento : MonoBehaviour
                     Destroy(collision.gameObject);
                     playerHealth++;
                     numOfHearts++;
-
                 }
             }
         }

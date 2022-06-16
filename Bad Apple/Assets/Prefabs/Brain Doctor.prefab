@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 6677397518196206310}
   - component: {fileID: 6677397518196206309}
   - component: {fileID: 6677397518196206308}
-  - component: {fileID: 6677397518196206307}
-  - component: {fileID: 6677397518196206329}
+  - component: {fileID: 7871412829594961090}
+  - component: {fileID: 9101992820852724068}
+  - component: {fileID: 4682162109443084326}
   - component: {fileID: 6677397518196206328}
   m_Layer: 8
   m_Name: Brain Doctor
@@ -136,7 +137,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
---- !u!114 &6677397518196206307
+--- !u!114 &7871412829594961090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6677397518196206305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62b7eaa46bf214447acc6847fa5ba9b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 6677397518196206328}
+  maxHealth: 3
+--- !u!114 &9101992820852724068
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -152,7 +167,7 @@ MonoBehaviour:
   EnemySpeed: 350
   _isFacingRight: 0
   _moveRight: 1
---- !u!114 &6677397518196206329
+--- !u!114 &4682162109443084326
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -161,11 +176,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 6677397518196206305}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 62b7eaa46bf214447acc6847fa5ba9b6, type: 3}
+  m_Script: {fileID: 11500000, guid: e26f84096fcaa2f49aa97d37dc9d223e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 6677397518196206328}
-  maxHealth: 3
+  bullet: {fileID: 6366178168599573708, guid: 68ad036fbe4e7a3409edbd45272ffaef, type: 3}
 --- !u!95 &6677397518196206328
 Animator:
   serializedVersion: 4

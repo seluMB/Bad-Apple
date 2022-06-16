@@ -1,0 +1,4358 @@
+fileFormatVersion: 2
+guid: da416605409ee3f41a085270f85920bd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 245
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a0c817c9af6e94299362f9a0dabdc6
+      internalID: -1962710810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075709b3bd9be824c97a37b5204cd99f
+      internalID: -279033515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_3
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22c418dde3616e4181bad3b1c9edc32
+      internalID: -954342384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1486cbf4477876c4dbbf88214c314540
+      internalID: 245978556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_5
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b43b99bfd51f14789712bedf033e7d
+      internalID: 29051275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_6
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2545b81ddb23f4bae3a90644756ee3
+      internalID: 1945616711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_7
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81d5653d9236d04c8c1c6be98b5e1ca
+      internalID: -524700796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_8
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589f81356ae0d34288f741b9ac9645a
+      internalID: 550745939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_9
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa87c4c5a425d32498f8861322c6f6df
+      internalID: 444314190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_10
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444a179919552e348af2e49568633736
+      internalID: -1252770061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_11
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940dee07c5b7898449d11c7d81411f1e
+      internalID: -1594487339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_12
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cceaa4f6d5a59c448ed1e7c349cd1d3
+      internalID: 1739100388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_13
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7c6b4d281564a47a50ba6a005ffd61
+      internalID: -524974140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_14
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fea21f8ebc5a243afc7ae0acc46862
+      internalID: -672882629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_15
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b29df7d466871e4b9e4635ef9893f54
+      internalID: -68241575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_16
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 2794
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aea843dc16ad7469f7e3d49b2a0940
+      internalID: -140343392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa5e5293dc903f4b8a9f6bca59f50d5
+      internalID: 488300059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_19
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c9a3f036f755249b411aae0a336dcd
+      internalID: 543213599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_20
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65428a04528d53f4b92eb05677dc71c9
+      internalID: -1235353181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_21
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2c6049f3f5b7549ada3f4b110ef691
+      internalID: 1568020416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_22
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4b19d2198c3b489b29b5c8e80b2c9
+      internalID: 1579160533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_23
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f77a6557619964d994e0cb19a18a6e
+      internalID: 990593461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_24
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f1791b00bd855429e54faa1c777a1a
+      internalID: -1102236306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_25
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992437ad5fcf3d34481b7ed0f1dd6063
+      internalID: -1779399429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_26
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cece0c896889234ca3b3f17fe34061c
+      internalID: -503806981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_27
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af6022d8508ba24088892ccc6f0a0a3
+      internalID: -179217071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_28
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90027e5d4c0ab94291ed8c74de72f97
+      internalID: -686026643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_29
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9f4289121a32445ac1fd3ccc663b2f
+      internalID: -325615259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_30
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fc1c0ec5abb384497e3232afd1e119
+      internalID: 914734771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_31
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633df47480fe0984eb53377292900d3c
+      internalID: 1129903529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_32
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7015174d15c30ea4881a4fe9abeb3162
+      internalID: -94182216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_33
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 2546
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecb25ffe585ed94a9e3d15ebd9963d5
+      internalID: -631442899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_35
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591053b49f1df749a46bae405492e24
+      internalID: -1617805655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_36
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139e34f89203bc3489b47b2adec3fa7d
+      internalID: -981403327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_37
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f80675d41413f48b0aa4ee71d5d90d
+      internalID: 651909178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_38
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9b4bb81cb1d0f49ad810300eed677b
+      internalID: 686815751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_39
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb6dd37aff624145805aaa948d5331d
+      internalID: -61282610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_40
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2152ed1eebc6e84e9df75509b58495f
+      internalID: -1107160050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_41
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a7e53c49f8e064080fff5592d3433c
+      internalID: 1372695849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_42
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeabff2e46df8c45a8ea2b8b5633084
+      internalID: 2143572698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_43
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05e1835e0e0d0544a7832fab7862d28
+      internalID: -1728366409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_44
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda99927b06254243b28819e48f77337
+      internalID: -452846901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_45
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdd3134dc5082846a4517df7ca6f662
+      internalID: 1053094753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_46
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcfe0d26787fa74dbe91d64dba29d7d
+      internalID: -270264457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_47
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6947ab9bd6565484a8b73a391e5c1091
+      internalID: -146355240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_48
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc9208ed25e068429f6294642267bcb
+      internalID: -1718234339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_49
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00583c3317fc1324dab7e218b9bd6738
+      internalID: 1349336779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_50
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 2298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacdc765fb73ffb4da4e8eb2070f730b
+      internalID: 1896859188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c5fc00e3c08e14993a52e60e409743
+      internalID: -1587310497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5843bde21f691bd498eb02bb46915025
+      internalID: -1234627391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_54
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e5c772b34cafb4681217386092a97d
+      internalID: -1321716175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_55
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad31b7aaf90dc04490ea83cff943b80
+      internalID: 993684400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_56
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9095568a6147a8c4fb92fac35b6cfcfb
+      internalID: -2017141011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_57
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a3ad54dbd923744a65dc66420bfc64
+      internalID: -1228960011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_58
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882b72e9f6db86b4fa12effb883bc9df
+      internalID: 2096185068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_59
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0abe501e4adf254ebf2e58486d2df56
+      internalID: -2085858493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_60
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2762c7a565588249bcc96fc11347c35
+      internalID: -522568405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_61
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a051569cb6b4df24fa82271f2572657e
+      internalID: 30577888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_62
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d31f25fcd8619a4fbb82c35ada67a57
+      internalID: -1725811619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_63
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb282031647a204b8a1c860ef11e951
+      internalID: 1054747277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_64
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f658d02b50e95428f8fa9142a0365a
+      internalID: -1405543782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_65
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a18a47af8d23aa469e6d402afd85e86
+      internalID: -254247665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_66
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a169aad1b3aa943b65a200030a95b6
+      internalID: -1669787869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_67
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 2050
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7566bd121c1df4fa35f514065067c0
+      internalID: -654337625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_69
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84723b8d1226abc4fa6457a441f28bc7
+      internalID: 914762502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_70
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49e35f572449de499d10967d5827510
+      internalID: 1715160883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_71
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f57690051978439d167b8a5a6d06e
+      internalID: -1908822802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_72
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e122bca6fc344ca4486880d9140a8b49
+      internalID: 926982204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_73
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6766e3ca7da4d454eb3c5e0642a11fb4
+      internalID: 1519073931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_74
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6df5cc83a713be4ebc5f6527f0547be
+      internalID: -898626351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_75
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea3d6526bfce8a4ba092a85d3d00b88
+      internalID: -105463320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_76
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1c23af4dc393946b14c700ba445da4
+      internalID: -1487255849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_77
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c885f0f00de004b8fa773bc3c8fbfd
+      internalID: 328626264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_78
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732fb7f083b799a498b17db6d7466362
+      internalID: 1414395195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_79
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fba7fc180372a4ea830f8231cb15ba
+      internalID: -276721318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_80
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d65643f79bf294408b20008fa54acd5
+      internalID: -886293910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_81
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbe3c071c410be48926412071c2821a
+      internalID: 283614931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_82
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7bb2178d503974a80f0782e6e6347f
+      internalID: -1826872244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_83
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04378735aad68649a0bf89f139128b1
+      internalID: -2027207305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_84
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 1802
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423c6204326457c4ea7ab2c567e591b3
+      internalID: -2048863849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_86
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6eba31520e194f83dd61aae34ed82
+      internalID: 1073427343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_87
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ba14f01f2f593469ac74bec7231d00
+      internalID: 2083108389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_88
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d54fba5e7e0bd942a366fd824674757
+      internalID: 2036637801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_89
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8cc405725245246a8649201f7914ec
+      internalID: -1595366087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_90
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301152dba53b9b5408a6a3c79a5a6812
+      internalID: 720268588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_91
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb674816448d47429ad94911bcfd5d6
+      internalID: -1260843229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_92
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce63884cd8adbc144b79dc842e141fb5
+      internalID: -702917993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_93
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbf631d629047c4ba9fb27190358619
+      internalID: -608093210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_94
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdfc3b53d0cb21419935087ce957f69
+      internalID: -467323133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_95
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f07b19f79fa6d54b9061d613e79164e
+      internalID: -68616642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_96
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee48d0f4802ae343820c6cbb95ccdae
+      internalID: -1845835216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_97
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e40b7ed05d788d498637643302f133d
+      internalID: -1167859673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_98
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f4644d4f02c7b489017e5f8450f301
+      internalID: -1910482720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_99
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d390ee5785993845a6f0135ab5ab91a
+      internalID: -648645697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_100
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6175d24ffe9b74096ff6a6197a644e
+      internalID: -1722420443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_101
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 1554
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf6576e821b5e40b227427c37de25e
+      internalID: 949319286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_103
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce61108c93f1154a8b63c7c396d8857
+      internalID: -52830895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_104
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50adcf80f3d0b4fa563d5d7eb300d1
+      internalID: -112073672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_105
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001dbe38219e10341a39d40610377d94
+      internalID: -789314738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_106
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abf55498f4ee3c4fa34cf1c7c718db1
+      internalID: 1938191525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_107
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0202874304a954f8af28599fc763a1
+      internalID: 543400503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_108
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6348d57e3ba8fd34e8e6ad758044802f
+      internalID: 1149337075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_109
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7039e509e4f1c464cb30143b2201f1f6
+      internalID: 1854452331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_110
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a5b504d3676034a8f87d0ec814855d
+      internalID: 1810219391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_111
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0078c84c7adbbec4ebe59d7beb8d3e3c
+      internalID: 103831999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_112
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb94f5bbb6ed94fa7ea8cf0be05b48
+      internalID: 1354641089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_113
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4e9a9314170444cab17fa082c7d42a
+      internalID: -125230599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_114
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9445b544cf7e261418b7d5486b1a34dc
+      internalID: -807861486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_115
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3ccc8d70b43674b94b9aa2c35d1be7
+      internalID: 1027214899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_116
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d0bb3140c31e748bb2af6359d9caa0
+      internalID: -95675847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_117
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50bb62212d74254e95e63f0f66bedfc
+      internalID: 1948544811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_118
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 1306
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675d5d592a9b26a459d4edec0eec71a5
+      internalID: 1491415941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_120
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43355c12ed3564f81f3e51294b09cc
+      internalID: 673913269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_121
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bd6d2e087f95442859d35867675f91
+      internalID: -331966967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_122
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9873cf028dbe761448c27fc7014d7f3a
+      internalID: 636042745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_123
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20acd736ca4016d47bdc83f04bb502e6
+      internalID: 148221377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_124
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817baa5645799384aba7368495abee4a
+      internalID: 1000329559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_125
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69df46f524c33445888f1ea019a5e18
+      internalID: -584929825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_126
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb9c9c6cd185b049be7d48f3e2504f5
+      internalID: -1712597751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_127
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b86c40dff26ab42927a611f0f6dbfd
+      internalID: -188811812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_128
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc89e6dd5f078d4a8f7588f249a7a29
+      internalID: -821619819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_129
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b6b3468c545624ea285bfad9afae63
+      internalID: -63688132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_130
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be448b56014e45d40b1078705071b8e6
+      internalID: -515728414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_131
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7610e7209a1a3004397b429d373ac9c4
+      internalID: 849392086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_132
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791a55807eb0eb4b8c53ad660c0822a
+      internalID: -669709534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_133
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d199b51d63cafa8449e463ab676b2448
+      internalID: -161302435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_134
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5aee56b7ae65f47b019928e8ed8afd
+      internalID: 1242912222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_135
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 1058
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f5c146431cf3642bf70949f4f799f2
+      internalID: 270414223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_137
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e27b04189d0dc64b83de290f5b7042a
+      internalID: -1102460727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_138
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e60b349e9f184e9ee2fa1a7f0f2e7
+      internalID: 746603716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_139
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0521fd8600b11fa40ba9d2808ee713a4
+      internalID: 154795272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_140
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67029d4883d3218458c18eb2ce659a80
+      internalID: -1461081245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_141
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3957c6edd1c53894192558b2acf9a5c6
+      internalID: 1783672221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_142
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e38bb696e817074e88f64f1bbcdd3c7
+      internalID: 392719542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_143
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8fd735a2235dd40b9a3dd1ec29c224
+      internalID: 2030268765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_144
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e9541eda07c1645bd8a6e2f338dc84
+      internalID: 1455140591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_145
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab221379f6703747a38a01987439e32
+      internalID: 1891343032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_146
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683da1854ac19084091d1874fa0acb6a
+      internalID: -33598747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_147
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0efb76ce68c2a41b55b0cb4b5df496
+      internalID: -1003869770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_148
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f9277d8eb89145a2220e90bd84873
+      internalID: 1154605797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_149
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07b899b4e365404b8030ffe33537a1c
+      internalID: -1104521853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_150
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4395553a819030945ad34b8c89930aaa
+      internalID: -1397837811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_151
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7b365c0d1f32440ba87ff303a8cae5
+      internalID: -564659406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_152
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 810
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4389a8f2c93b4f8e9e3fb56527521
+      internalID: -1822055417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_154
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf08fef22710bac4f9e4fc6c366eb140
+      internalID: 742553629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_155
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff725920620d2a341abb6c82eaa20b45
+      internalID: -864447202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_156
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3590b8e5270247b4f90de22b6fa77
+      internalID: -466453421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_157
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd189de083601c4a88e6aee6a9f259e
+      internalID: -1730172547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_158
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73fa9e086236ff49bf48c4588cc0fd0
+      internalID: 710170753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_159
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc442b71a07854644bea2e85e90e665f
+      internalID: 1382343945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_160
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccbbb6331472774ebf5fdf7d09a2963
+      internalID: 751503992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_161
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13383b248f04310498112ba62d3d09d2
+      internalID: -452051846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_162
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1931984ef1ed1de43b1f8a1c5621e314
+      internalID: 350855344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_163
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c6d8c59b1957b4bb92d8d5881e770a
+      internalID: -1856226951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_164
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac94b6b49c357143958bd6877005f67
+      internalID: 2010460610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_165
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f6597079b74254a8aef75fd9a96da1
+      internalID: -558793086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_166
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8a492085721b44dad62021d67e8e46
+      internalID: -1467855990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_167
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a2c93be9e824a4d8432ef24e247253
+      internalID: 1597574302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_168
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f9ba7f9771aa4aa65a4bb6f16f540
+      internalID: 39155000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_169
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 562
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de00ff6c0ea1de244a7236c5be91d2da
+      internalID: -786150698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_171
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63b406025c3a5541a12995f97c9f821
+      internalID: 1766687912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_172
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dca15a7532f8947ba898e3ba34b99f
+      internalID: 349376951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_173
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b7255f49058884f871644ca94267e9
+      internalID: 698521816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_174
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99945f291c87b3f4b9716ba0d03e6286
+      internalID: -262299922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_175
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39061eb9d6bf37241a47d3643534f3a4
+      internalID: -661192956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_176
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b7ee90e74974b42b2fc954c851ad5f
+      internalID: 1268528047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_177
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa55ff109f9df064c8ec9a9e560db40d
+      internalID: 1663793042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_178
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15d674b665029941882f73e5389f329
+      internalID: 113535122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_179
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7ea33eb60a4bb438bf7b9584170fb7
+      internalID: -1523777586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_180
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618ce5d1a36f77948b904b84de2a1fde
+      internalID: 1366707089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_181
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b050bf7edd783b747b865c3ce67b783e
+      internalID: -102947433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_182
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cadf784458b3d47bd2b44f429a15ba
+      internalID: 1020502958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_183
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318672261bb5f34e834af4e9eec5804
+      internalID: -1325745128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_184
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cd4457ed885d844bfd79368ae25ea3
+      internalID: -535625102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_185
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bc400bce70a0d44b9a84b4d234f0e6
+      internalID: 689600844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_186
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 314
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b76cd2654dcac442b36dce2440a31cb
+      internalID: 1830747772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_188
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368076e6f885325479221786a3bec5b7
+      internalID: -865842871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_189
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3ce534798206b4ea74db679c7dd85c
+      internalID: -2055091618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_190
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda72dd056f431e4aa97bf6501b20c2c
+      internalID: -1258448344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_191
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5e609518224df41bc976529b5a1db0
+      internalID: 933498690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_192
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2626fa9fb9ed0ae4ab423b98292430e9
+      internalID: 1677174009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_193
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1099972bf9d5d904d9a7f99665d0e265
+      internalID: -1011862051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_194
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fb8fb90d562cf418171b22d33b3007
+      internalID: -445983898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_195
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27158606e18427c42aae912567040229
+      internalID: -299571880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_196
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cccbe36f4131c84ba25c93b45952ad4
+      internalID: 31936378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_197
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387e90d0123d7784eb134d4bd9dd2b2c
+      internalID: -1547518291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_198
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67ff62b197692f42b201e8824cc18c7
+      internalID: -2010252995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_199
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fae83651dc62446a8d79063ac0bc58
+      internalID: 255682068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_200
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b810e93c3b63c6488152b1b840c03f8
+      internalID: 935914313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_201
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f1830179b0af4488050a005436e228
+      internalID: -826309046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_202
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3e7f7b2d6d664e872d42edbfba1e2
+      internalID: 447689920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWand_finished_Flip_203
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 66
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af293413fc948047bc6169ece4057b9
+      internalID: 2072590491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TilemapWand_finished_Flip_173: 698521816
+      TilemapWand_finished_Flip_164: 2010460610
+      TilemapWand_finished_Flip_190: -1258448344
+      TilemapWand_finished_Flip_33: -631442899
+      TilemapWand_finished_Flip_11: -1594487339
+      TilemapWand_finished_Flip_19: 543213599
+      TilemapWand_finished_Flip_48: -1718234339
+      TilemapWand_finished_Flip_161: -452051846
+      TilemapWand_finished_Flip_144: 1455140591
+      TilemapWand_finished_Flip_170: -1863125297
+      TilemapWand_finished_Flip_68: -187647185
+      TilemapWand_finished_Flip_152: -1822055417
+      TilemapWand_finished_Flip_26: -503806981
+      TilemapWand_finished_Flip_32: -94182216
+      TilemapWand_finished_Flip_89: -1595366087
+      TilemapWand_finished_Flip_43: -1728366409
+      TilemapWand_finished_Flip_85: 2109458894
+      TilemapWand_finished_Flip_116: -95675847
+      TilemapWand_finished_Flip_59: -2085858493
+      TilemapWand_finished_Flip_111: 103831999
+      TilemapWand_finished_Flip_25: -1779399429
+      TilemapWand_finished_Flip_187: -1551712316
+      TilemapWand_finished_Flip_120: 673913269
+      TilemapWand_finished_Flip_81: 283614931
+      TilemapWand_finished_Flip_2: -279033515
+      TilemapWand_finished_Flip_55: 993684400
+      TilemapWand_finished_Flip_12: 1739100388
+      TilemapWand_finished_Flip_97: -1167859673
+      TilemapWand_finished_Flip_183: -1325745128
+      TilemapWand_finished_Flip_96: -1845835216
+      TilemapWand_finished_Flip_135: 270414223
+      TilemapWand_finished_Flip_87: 2083108389
+      TilemapWand_finished_Flip_172: 349376951
+      TilemapWand_finished_Flip_50: 1896859188
+      TilemapWand_finished_Flip_34: -56091108
+      TilemapWand_finished_Flip_24: -1102236306
+      TilemapWand_finished_Flip_122: 636042745
+      TilemapWand_finished_Flip_171: 1766687912
+      TilemapWand_finished_Flip_82: -1826872244
+      TilemapWand_finished_Flip_99: -648645697
+      TilemapWand_finished_Flip_177: 1663793042
+      TilemapWand_finished_Flip_95: -68616642
+      TilemapWand_finished_Flip_163: -1856226951
+      TilemapWand_finished_Flip_126: -1712597751
+      TilemapWand_finished_Flip_73: 1519073931
+      TilemapWand_finished_Flip_154: 742553629
+      TilemapWand_finished_Flip_16: -140343392
+      TilemapWand_finished_Flip_75: -105463320
+      TilemapWand_finished_Flip_203: 2072590491
+      TilemapWand_finished_Flip_17: -218305423
+      TilemapWand_finished_Flip_186: 1830747772
+      TilemapWand_finished_Flip_60: -522568405
+      TilemapWand_finished_Flip_39: -61282610
+      TilemapWand_finished_Flip_100: -1722420443
+      TilemapWand_finished_Flip_14: -672882629
+      TilemapWand_finished_Flip_40: -1107160050
+      TilemapWand_finished_Flip_182: 1020502958
+      TilemapWand_finished_Flip_46: -270264457
+      TilemapWand_finished_Flip_145: 1891343032
+      TilemapWand_finished_Flip_174: -262299922
+      TilemapWand_finished_Flip_140: -1461081245
+      TilemapWand_finished_Flip_110: 1810219391
+      TilemapWand_finished_Flip_86: 1073427343
+      TilemapWand_finished_Flip_52: -1587310497
+      TilemapWand_finished_Flip_74: -898626351
+      TilemapWand_finished_Flip_91: -1260843229
+      TilemapWand_finished_Flip_184: -535625102
+      TilemapWand_finished_Flip_148: 1154605797
+      TilemapWand_finished_Flip_196: 31936378
+      TilemapWand_finished_Flip_199: 255682068
+      TilemapWand_finished_Flip_72: 926982204
+      TilemapWand_finished_Flip_36: -981403327
+      TilemapWand_finished_Flip_128: -821619819
+      TilemapWand_finished_Flip_160: 751503992
+      TilemapWand_finished_Flip_37: 651909178
+      TilemapWand_finished_Flip_147: -1003869770
+      TilemapWand_finished_Flip_45: 1053094753
+      TilemapWand_finished_Flip_132: -669709534
+      TilemapWand_finished_Flip_84: -2048863849
+      TilemapWand_finished_Flip_157: -1730172547
+      TilemapWand_finished_Flip_136: -730178656
+      TilemapWand_finished_Flip_15: -68241575
+      TilemapWand_finished_Flip_156: -466453421
+      TilemapWand_finished_Flip_158: 710170753
+      TilemapWand_finished_Flip_98: -1910482720
+      TilemapWand_finished_Flip_0: -358487651
+      TilemapWand_finished_Flip_151: -564659406
+      TilemapWand_finished_Flip_10: -1252770061
+      TilemapWand_finished_Flip_78: 1414395195
+      TilemapWand_finished_Flip_4: 245978556
+      TilemapWand_finished_Flip_150: -1397837811
+      TilemapWand_finished_Flip_51: 1447313078
+      TilemapWand_finished_Flip_63: 1054747277
+      TilemapWand_finished_Flip_54: -1321716175
+      TilemapWand_finished_Flip_165: -558793086
+      TilemapWand_finished_Flip_8: 550745939
+      TilemapWand_finished_Flip_198: -2010252995
+      TilemapWand_finished_Flip_101: 949319286
+      TilemapWand_finished_Flip_141: 1783672221
+      TilemapWand_finished_Flip_167: 1597574302
+      TilemapWand_finished_Flip_104: -112073672
+      TilemapWand_finished_Flip_47: -146355240
+      TilemapWand_finished_Flip_124: 1000329559
+      TilemapWand_finished_Flip_57: -1228960011
+      TilemapWand_finished_Flip_185: 689600844
+      TilemapWand_finished_Flip_106: 1938191525
+      TilemapWand_finished_Flip_92: -702917993
+      TilemapWand_finished_Flip_123: 148221377
+      TilemapWand_finished_Flip_178: 113535122
+      TilemapWand_finished_Flip_41: 1372695849
+      TilemapWand_finished_Flip_29: -325615259
+      TilemapWand_finished_Flip_65: -254247665
+      TilemapWand_finished_Flip_109: 1854452331
+      TilemapWand_finished_Flip_83: -2027207305
+      TilemapWand_finished_Flip_121: -331966967
+      TilemapWand_finished_Flip_130: -515728414
+      TilemapWand_finished_Flip_202: 447689920
+      TilemapWand_finished_Flip_168: 39155000
+      TilemapWand_finished_Flip_88: 2036637801
+      TilemapWand_finished_Flip_27: -179217071
+      TilemapWand_finished_Flip_6: 1945616711
+      TilemapWand_finished_Flip_125: -584929825
+      TilemapWand_finished_Flip_197: -1547518291
+      TilemapWand_finished_Flip_64: -1405543782
+      TilemapWand_finished_Flip_108: 1149337075
+      TilemapWand_finished_Flip_23: 990593461
+      TilemapWand_finished_Flip_129: -63688132
+      TilemapWand_finished_Flip_7: -524700796
+      TilemapWand_finished_Flip_9: 444314190
+      TilemapWand_finished_Flip_93: -608093210
+      TilemapWand_finished_Flip_133: -161302435
+      TilemapWand_finished_Flip_66: -1669787869
+      TilemapWand_finished_Flip_194: -445983898
+      TilemapWand_finished_Flip_62: -1725811619
+      TilemapWand_finished_Flip_162: 350855344
+      TilemapWand_finished_Flip_179: -1523777586
+      TilemapWand_finished_Flip_201: -826309046
+      TilemapWand_finished_Flip_1: -1962710810
+      TilemapWand_finished_Flip_42: 2143572698
+      TilemapWand_finished_Flip_20: -1235353181
+      TilemapWand_finished_Flip_114: -807861486
+      TilemapWand_finished_Flip_77: 328626264
+      TilemapWand_finished_Flip_56: -2017141011
+      TilemapWand_finished_Flip_94: -467323133
+      TilemapWand_finished_Flip_69: 914762502
+      TilemapWand_finished_Flip_181: -102947433
+      TilemapWand_finished_Flip_76: -1487255849
+      TilemapWand_finished_Flip_131: 849392086
+      TilemapWand_finished_Flip_134: 1242912222
+      TilemapWand_finished_Flip_105: -789314738
+      TilemapWand_finished_Flip_193: -1011862051
+      TilemapWand_finished_Flip_127: -188811812
+      TilemapWand_finished_Flip_90: 720268588
+      TilemapWand_finished_Flip_31: 1129903529
+      TilemapWand_finished_Flip_103: -52830895
+      TilemapWand_finished_Flip_176: 1268528047
+      TilemapWand_finished_Flip_38: 686815751
+      TilemapWand_finished_Flip_142: 392719542
+      TilemapWand_finished_Flip_22: 1579160533
+      TilemapWand_finished_Flip_166: -1467855990
+      TilemapWand_finished_Flip_5: 29051275
+      TilemapWand_finished_Flip_13: -524974140
+      TilemapWand_finished_Flip_113: -125230599
+      TilemapWand_finished_Flip_80: -886293910
+      TilemapWand_finished_Flip_159: 1382343945
+      TilemapWand_finished_Flip_118: 1491415941
+      TilemapWand_finished_Flip_58: 2096185068
+      TilemapWand_finished_Flip_137: -1102460727
+      TilemapWand_finished_Flip_28: -686026643
+      TilemapWand_finished_Flip_192: 1677174009
+      TilemapWand_finished_Flip_102: -14621783
+      TilemapWand_finished_Flip_195: -299571880
+      TilemapWand_finished_Flip_189: -2055091618
+      TilemapWand_finished_Flip_115: 1027214899
+      TilemapWand_finished_Flip_153: 1799092372
+      TilemapWand_finished_Flip_30: 914734771
+      TilemapWand_finished_Flip_155: -864447202
+      TilemapWand_finished_Flip_112: 1354641089
+      TilemapWand_finished_Flip_35: -1617805655
+      TilemapWand_finished_Flip_149: -1104521853
+      TilemapWand_finished_Flip_44: -452846901
+      TilemapWand_finished_Flip_49: 1349336779
+      TilemapWand_finished_Flip_67: -654337625
+      TilemapWand_finished_Flip_71: -1908822802
+      TilemapWand_finished_Flip_53: -1234627391
+      TilemapWand_finished_Flip_107: 543400503
+      TilemapWand_finished_Flip_143: 2030268765
+      TilemapWand_finished_Flip_117: 1948544811
+      TilemapWand_finished_Flip_70: 1715160883
+      TilemapWand_finished_Flip_200: 935914313
+      TilemapWand_finished_Flip_138: 746603716
+      TilemapWand_finished_Flip_61: 30577888
+      TilemapWand_finished_Flip_139: 154795272
+      TilemapWand_finished_Flip_175: -661192956
+      TilemapWand_finished_Flip_21: 1568020416
+      TilemapWand_finished_Flip_191: 933498690
+      TilemapWand_finished_Flip_3: -954342384
+      TilemapWand_finished_Flip_18: 488300059
+      TilemapWand_finished_Flip_119: 257260916
+      TilemapWand_finished_Flip_169: -786150698
+      TilemapWand_finished_Flip_180: 1366707089
+      TilemapWand_finished_Flip_188: -865842871
+      TilemapWand_finished_Flip_79: -276721318
+      TilemapWand_finished_Flip_146: -33598747
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
