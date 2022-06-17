@@ -16,6 +16,7 @@ public class PauseMenu : MonoBehaviour
         {
             if (GameIsPaused)
             {
+                
                 Resume();
             }
             else
@@ -27,6 +28,7 @@ public class PauseMenu : MonoBehaviour
 
     public void Resume()
     {
+        FindObjectOfType<AudioManager>().Play("Click");
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
         GameIsPaused = false;
@@ -34,18 +36,21 @@ public class PauseMenu : MonoBehaviour
 
     void Pause()
     {
+        FindObjectOfType<AudioManager>().Play("Click");
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         GameIsPaused = true;
     }
     public void QuitGame()
     {
+        FindObjectOfType<AudioManager>().Play("Click");
         Debug.Log("Quitting...");
         Application.Quit();
     }
 
     public void RestartGame()
     {
+        FindObjectOfType<AudioManager>().Play("Click");
         Debug.Log("Restarting...");
         SceneManager.LoadScene(0);
         Time.timeScale = 1f;

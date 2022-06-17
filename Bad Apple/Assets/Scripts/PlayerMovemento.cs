@@ -123,12 +123,14 @@ public class PlayerMovemento : MonoBehaviour
     {
         if (col.gameObject.tag == "Bullet")
         {
+            FindObjectOfType<AudioManager>().Play("PlayerHurt");
             Debug.Log("Hit!");
             Destroy(col.gameObject);
             playerHealth = playerHealth - 1f;
             
             if (playerHealth <= 0)
             {
+                
                 FindObjectOfType<LoseMenu>().Lost();
             }       
         }
@@ -137,7 +139,7 @@ public class PlayerMovemento : MonoBehaviour
         if (col.gameObject.tag == "Enemy")
         {
             Debug.Log("Touch");
-           
+            FindObjectOfType<AudioManager>().Play("PlayerHurt");
             playerHealth = playerHealth - 1f;
 
             if (playerHealth <= 0)
