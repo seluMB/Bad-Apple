@@ -27,7 +27,7 @@ public class Enemy : MonoBehaviour
     void Die()
     {
         Debug.Log("Enemy Died");
-
+        FindObjectOfType<AudioManager>().Play("DoctorDeath");
         Destroy(gameObject,0.5f);
     }
 }

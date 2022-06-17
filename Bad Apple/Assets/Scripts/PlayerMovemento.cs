@@ -20,11 +20,31 @@ public class PlayerMovemento : MonoBehaviour
     public Image[] hearts;
     public Sprite fullHeart;
     public Sprite emptyHeart;
+   
 
     // Get Input
     void Update()
     {
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+
+
+        // walk sound manager
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+
+            FindObjectOfType<AudioManager>().Play("Walking");
+        }
+
+        if(Input.GetKeyDown(KeyCode.D))
+        {
+
+            FindObjectOfType<AudioManager>().Play("Walking");
+        }
+
+      
+
+        
+
 
         animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
 
@@ -73,6 +93,7 @@ public class PlayerMovemento : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Heart"))
         {
+            FindObjectOfType<AudioManager>().Play("PowerUp");
             for (int i = 0; i < hearts.Length; i++)
             {
                 if (i < playerHealth)

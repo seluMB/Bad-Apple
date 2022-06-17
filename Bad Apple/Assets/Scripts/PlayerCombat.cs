@@ -23,6 +23,7 @@ public class PlayerCombat : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.Mouse0))
             {
+                FindObjectOfType<AudioManager>().Play("Whip");
                 Attack();
                 nextAttackTime = Time.time + 1f / attackRate;
             }

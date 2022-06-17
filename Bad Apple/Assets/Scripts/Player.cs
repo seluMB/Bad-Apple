@@ -46,7 +46,10 @@ public class Player : MonoBehaviour
             //in this case, walk animation is only played, when player isGrounded
             if (isGrounded())
             {
+                
                 animator.SetBool("Walk", true);
+                
+
             }
             else
             {
@@ -76,6 +79,7 @@ public class Player : MonoBehaviour
         if (isMoving)
         {
             playerRigidBody.velocity = new Vector2(movement.x * movementSpeed, playerRigidBody.velocity.y);
+           
         }
         // only when isJumping is true, player can jump by changing the velocity
         if (isJumping)

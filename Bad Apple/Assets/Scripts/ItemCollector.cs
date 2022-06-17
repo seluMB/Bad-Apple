@@ -24,6 +24,7 @@ public class ItemCollector : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Peach"))
         {
+            FindObjectOfType<AudioManager>().Play("Fruit_1");
             Destroy(collision.gameObject);
             peach.enabled = true;
             isImgOn = true;
@@ -31,6 +32,7 @@ public class ItemCollector : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Lemon"))
         {
+            FindObjectOfType<AudioManager>().Play("Fruit_2");
             Destroy(collision.gameObject);
             lemon.enabled = true;
             isImgOn = true;
@@ -38,6 +40,7 @@ public class ItemCollector : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Strawberry"))
         {
+            FindObjectOfType<AudioManager>().Play("Fruit_3");
             Destroy(collision.gameObject);
             strawberry.enabled = true;
             isImgOn = true;
@@ -47,6 +50,7 @@ public class ItemCollector : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Pear"))
         {
+            FindObjectOfType<AudioManager>().Play("Fruit_4");
             Destroy(collision.gameObject);
             pear.enabled = true;
             isImgOn = true;
