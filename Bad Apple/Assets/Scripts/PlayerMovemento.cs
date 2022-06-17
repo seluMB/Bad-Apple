@@ -40,13 +40,13 @@ public class PlayerMovemento : MonoBehaviour
         }
 
         //Pause Menu
-        if (Input.GetKeyDown(KeyCode.Space))
+        /*if (Input.GetKeyDown(KeyCode.Space))
         {
             FindObjectOfType<GameManager>().Pause();
-        }
+        }*/
 
-            //Heart UI
-            for (int i = 0; i < hearts.Length; i++)
+        //Heart UI
+        for (int i = 0; i < hearts.Length; i++)
         {
             if(i < playerHealth)
             {
@@ -108,7 +108,7 @@ public class PlayerMovemento : MonoBehaviour
             
             if (playerHealth <= 0)
             {
-                FindObjectOfType<GameManager>().EndGame();
+                FindObjectOfType<LoseMenu>().Lost();
             }       
         }
 
@@ -121,7 +121,7 @@ public class PlayerMovemento : MonoBehaviour
 
             if (playerHealth <= 0)
             {
-                FindObjectOfType<GameManager>().EndGame();
+                FindObjectOfType<LoseMenu>().Lost();
             }
         }
     }

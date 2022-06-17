@@ -42,7 +42,7 @@ public class ItemCollector : MonoBehaviour
             strawberry.enabled = true;
             isImgOn = true;
             //TriggersWinning
-            FindObjectOfType<GameManager>().Win();
+            FindObjectOfType<WinMenu>().Win();
         }
 
         if (collision.gameObject.CompareTag("Pear"))
